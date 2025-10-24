@@ -12,4 +12,4 @@ O conteúdo desse código é simplesmente em caráter de aprendizado, portanto, 
 # Blog
 - Content available at:
 - Conteúdo disponível em:
-  https://codedelphi.com/classes-e-objetos-em-delphi/
+  https://www.codedelphi.com/2024/06/classes-e-objetos-em-delphi.html
